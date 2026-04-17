@@ -20,6 +20,7 @@ p {
 <body>
 
 <h1>World tour</h1>
+<img src="Earth.png" height="200px">
 <p>Day 1, We go to Paris for 3 days on Dec 8th</p>
 <p>Day 2, We go to Rome for 4 days on Dec 11th</p>
 <p>Day 3, We go to London for 2 days on Dec 15th</p>
