@@ -1,32 +1,72 @@
-<a href=”assign2.html”>Assignment 2 - Movie Profiles</a>
+<a href="assign2.html">Assignment 2 - Movie Profiles</a>
 <html>
 <head>
 <style>
 body {
-  background-color: rgb(30, 84, 103);
+  background-color: #142234;
+  color: #f0f4f8;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  padding: 20px;
 }
 
 h1 {
-  color: white;
+  color: #ffd700;
   text-align: center;
 }
 
+h2 {
+  color: #87ceeb;
+  margin-top: 30px;
+}
+
 p {
-  font-family: verdana;
-  font-size: 20px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.section {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 16px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  border-radius: 10px;
 }
 </style>
 </head>
-<body>
+<body>  
 
-<h1>World tour</h1>
-<img src="Earth.png" height="200px">
-<p>Day 1, We go to Paris for 3 days on Dec 8th</p>
-<p>Day 2, We go to Rome for 4 days on Dec 11th</p>
-<p>Day 3, We go to London for 2 days on Dec 15th</p>
-<p>Day 4, We go to Tokyo for 5 days on Dec 17th</p>
+<h1>The Truman Show</h1>
+<img src="https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="The Truman Show poster" height="300">
 
-<p>Tickets can be bought online and at the airport</p>
+<div class="section">
+  <h2>Truman Burbank</h2>
+  <p>Truman is the main character whose life is broadcast to the world without his knowledge. He grows up in a perfect town called Seahaven, but eventually begins to question the strange coincidences and limits around him.</p>
+</div>
+
+<div class="section">
+  <h2>Meryl Burbank</h2>
+  <p>Meryl is Truman’s wife in the show, but she is actually an actress playing a role. She is part of the invisible crew that keeps Truman inside the studio and tries to convince him that their artificial life is real.</p>
+</div>
+
+<div class="section">
+  <h2>The Twins</h2>
+  <p>The twins appear in Truman’s life as Meryl’s “cousins” and as children in the world of Seahaven. They are part of the elaborate set and help maintain the illusion that Truman is living a normal life.</p>
+</div>
+
+<div class="section">
+  <h2>Christof, the Director</h2>
+  <p>Christof is the creator and director of the Truman Show. He watches Truman from the control room and believes he is protecting Truman by keeping him in the constructed world. His plan is challenged when Truman decides to escape.</p>
+</div>
+
+<p>This page explains the main characters from the movie and how their roles shape Truman’s story. The Truman Show explores themes of reality, control, and freedom.</p>
 
 </body>
 </html>
