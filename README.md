@@ -26,7 +26,7 @@ p {
 <p>Day 3, We go to London for 2 days on Dec 15th</p>
 <p>Day 4, We go to Tokyo for 5 days on Dec 17th</p>
 
-<p></p>
+<p>Tickets can be bought online and at the airport</p>
 
 </body>
 </html>
